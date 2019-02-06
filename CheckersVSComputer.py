@@ -1,8 +1,8 @@
 '''
-Tyler Watson
-Final Project
-Robert Vincent, instructor
-Winter 2018
+Checkers Game using Python's TkInter
+Computer makes move based on established hierarchy (not random)
+Available moves are shown to user when the piece is clicked
+Scores are kept for computer and user
 '''
 
 
